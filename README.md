@@ -9,8 +9,6 @@ My journey from no AIME -> a little better at math
 11/11/2025: (39/100)  
 11/13/2025: (47/100)  
 11/17/2025: (55/100)  
-
-### To revisit (someday)
-P15, P24, P39, P48?
+3/2/2026 (Senior year gap): (65/100) 
 
 [Project Euler](projecteuler.net)
